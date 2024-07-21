@@ -1,6 +1,6 @@
 # Flight-Cancellation
 
-<img src = "https://github.com/ahmedsaeed620/CodeClauseInternship_Uber-Fares-Prediction/blob/main/Images/TAL-uber-screen-car-UBERHOLIDAY1122-50314d4bd42e4316bec881419eab2d3d.jpg" width = 400 height = 200/> 
+<img src = "https://github.com/ahmedsaeed620/Flight-Cancellation/blob/main/77.jpg" width =1000 height = 400/> 
 
   - [Best Model selection](#best-model-selection)
     - [Best parametes](#best-parametes)
@@ -14,7 +14,7 @@ The data is trained on LogisticRegression, DecisionTreeClassifier, RandomForestC
 ### Best parametes
 
 ``` python
-{'Model_fit__n_estimators':10,
+{'Model_fit__n_estimators':10}
   
 ```
 
