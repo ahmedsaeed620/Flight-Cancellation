@@ -4,6 +4,7 @@
 
   - [Best Model selection](#best-model-selection)
     - [Best parametes](#best-parametes)
+    -  [Feature importances](#feature-importances)
   - [Technologies Used](#technologies-used)
 
   
@@ -17,6 +18,10 @@ The data is trained on LogisticRegression, DecisionTreeClassifier, RandomForestC
 {'Model_fit__n_estimators':10}
   
 ```
+
+### Feature importances
+
+<img src = "https://github.com/ahmedsaeed620/Flight-Cancellation/blob/main/78.png" width = 900 height = 400/>
 
 ## Technologies Used
 
