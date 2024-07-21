@@ -1,13 +1,21 @@
 # Flight-Cancellation
 
 <img src = "https://github.com/ahmedsaeed620/Flight-Cancellation/blob/main/77.jpg" width =1000 height = 400/> 
-
+- [Overview](#overview)
   - [Best Model selection](#best-model-selection)
     - [Best parametes](#best-parametes)
     -  [Feature importances](#feature-importances)
   - [Technologies Used](#technologies-used)
 
-  
+## Overview
+Flight cancellations are common in the aviation industry, and occur for multiple reasons such as adverse weather conditions, aircraft malfunctions, and other operational conditions. When a flight is cancelled, airlines offer passengers options such as rebooking the flight on a later flight, getting a refund, or obtaining a travel voucher.
+
+There are laws and regulations governing flight cancellations and compensation payable to passengers. For example, in the European Union, passengers are entitled to monetary compensation for canceled or delayed flights if the flight is canceled due to circumstances in the airline's control.
+
+Flight cancellations are a sensitive and important topic for passengers and businesses alike. Companies must handle these situations flexibly and efficiently to minimize inconvenience to passengers as much as possible. On the other hand, passengers must be patient and cooperate with company employees during flight cancellations.
+
+
+
 ## Best Model selection
 
 The data is trained on LogisticRegression, DecisionTreeClassifier, RandomForestClassifier , Oversampling and undersampling. RandomForestClassifier turned out to be the best model with accuracy= 0.98% .
